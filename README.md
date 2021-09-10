@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [@olist](https://github.com/olist) !
 - 🌱 I’m currently learning a lot of things !
 - 💬 Ask me about Backend and Architecture
-- ⚙️ I’m maintaining TimeSpeaker- [add-link-here] a tool to speak time on linux, similar to MacOS using Python.
+- ⚙️ I’m maintaining TimeSpeaker- [https://github.com/wallacesilva/timespeaker] a tool to speak time on linux, similar to MacOS using Python.
 - 🐦 Best way to reach me is on [Telegram@wallacesilva09](https://telegram.me/wallacesilva09)
-- 😄 Pronouns: He & Ele
+- 😄 Pronouns: He/Him & Ele/Dele
 - 🔗 My Personal website - https://wallacesilva.com/
 
 
