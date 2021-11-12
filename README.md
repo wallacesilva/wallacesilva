@@ -17,13 +17,38 @@ Here are some ideas to get you started:
 
 
 ---
+<!--p align="center">
+  <strong>Find Me</strong><br>
+
+  <a href="https://twitter.com/wallacesilva09" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wallacesilva" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/wallacesilva09" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wallacesilva" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/wallacesilva09" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wallacesilva" height="30" width="30" />
+  </a>
+  <a href="https://dev.to/wallacesilva09" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wallacesilva" height="30" width="30" />
+  </a>
+</p-->
+
 <p align="center">
   <strong>Find Me</strong><br>
-<a href="https://twitter.com/wallacesilva09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rochacbruno" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/wallacesilva09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rochacbruno" height="20" width="20" /></a>
-<a href="https://instagram.com/wallacesilva09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codeshowbr" height="20" width="20" /></a>
-<a href="https://dev.to/wallacesilva09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rochacbruno" height="20" width="20" /></a>
-<a href="https://fb.com/wallacesilva09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="codeshowbr" height="20" width="20" /></a>
+
+  <a href="https://twitter.com/wallacesilva09" target="blank">
+    Twitter
+  </a> | 
+  <a href="https://linkedin.com/in/wallacesilva09" target="blank">
+    Linkedin
+  </a> |  
+  <a href="https://instagram.com/wallacesilva09" target="blank">
+    Instagram
+  </a> |
+  <a href="https://dev.to/wallacesilva09" target="blank">
+    DEV
+  </a>
 </p>
 
 <!--
