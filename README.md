@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on [@olist](https://github.com/olist) !
+- 🔭 I’m currently working on [@thoughtworks](https://github.com/thoughtworks) !
 - 🌱 I’m currently learning a lot of things !
 - 💬 Ask me about Backend and Architecture
 - ⚙️ I’m maintaining [TimeSpeaker](https://github.com/wallacesilva/timespeaker) - a tool to speak time on linux, similar to MacOS using Python.
