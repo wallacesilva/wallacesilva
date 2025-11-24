@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on [@thoughtworks](https://github.com/thoughtworks) !
+<!-- - 🔭 I’m currently working on [@thoughtworks](https://github.com/thoughtworks) ! -->
 - 🌱 I’m currently learning a lot of things !
 - 💬 Ask me about Backend and Architecture
 - ⚙️ I’m maintaining [TimeSpeaker](https://github.com/wallacesilva/timespeaker) - a tool to speak time on linux, similar to MacOS using Python.
@@ -37,15 +37,17 @@ Here are some ideas to get you started:
 <p align="center">
   <strong>Find Me</strong><br>
 
+  <!--
   <a href="https://twitter.com/wallacesilva09" target="blank">
     Twitter
   </a> | 
-  <a href="https://linkedin.com/in/wallacesilva09" target="blank">
-    Linkedin
-  </a> |  
   <a href="https://instagram.com/wallacesilva09" target="blank">
     Instagram
   </a> |
+  -->
+  <a href="https://linkedin.com/in/wallacesilva09" target="blank">
+    Linkedin
+  </a> |  
   <a href="https://dev.to/wallacesilva09" target="blank">
     DEV
   </a>
